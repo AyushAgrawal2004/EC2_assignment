@@ -56,22 +56,22 @@
 ## 📸 Screenshots
 
 ### 🖥️ EC2 Instance (Username visible)
-![EC2 Instance](./screenshots/ec2.png)
+![EC2 Instance](./ec2.png)
 
 ---
 
 ### 🌐 Deployed Website
-![Website](./screenshots/website.png)
+![Website](./website.png)
 
 ---
 
 ### 👤 IAM User 1 (No Access)
-![User1](./screenshots/user1.png)
+![User1](./user1.png)
 
 ---
 
 ### 👤 IAM User 2 (With Access)
-![User2](./screenshots/user2.png)
+![User2](./user2.png)
 
 ---
 
