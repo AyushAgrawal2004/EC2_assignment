@@ -9,9 +9,7 @@
 ---
 
 ## 🌐 Deployed Website Link
-👉 http://YOUR_ELASTIC_IP  
-
-*(Replace with your Elastic IP)*
+👉 http://13.61.60.196  
 
 ---
 
